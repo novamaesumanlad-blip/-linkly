@@ -1,0 +1,7 @@
+# Replace the line below with the exact ads.txt entry shown in your
+# AdSense account (Sites → your domain → "View ads.txt"). It looks like:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+# This file must be reachable at https://yourdomain.com/ads.txt for
+# AdSense to serve ads on your site at all — it's not optional.
+google.com, pub-YOUR_PUBLISHER_ID, DIRECT, f08c47fec0942fa0
